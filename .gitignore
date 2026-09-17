@@ -5,6 +5,8 @@
 **/build/
 **/coverage/
 **/*.tsbuildinfo
+**/*.js.map
+**/*.d.ts.map
 
 # Local configuration and secrets
 **/.env*
