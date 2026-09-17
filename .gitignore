@@ -1,0 +1,18 @@
+# Dependencies and generated output
+**/node_modules/
+**/.next/
+**/dist/
+**/build/
+**/coverage/
+**/*.tsbuildinfo
+
+# Local configuration and secrets
+**/.env*
+**/*.pem
+
+# Editor and OS files
+.DS_Store
+.vscode/
+
+# Private interview notes
+interview_qa.md
